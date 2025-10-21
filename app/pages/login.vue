@@ -4,9 +4,9 @@
             class="flex flex-col items-center justify-start h-3/4 w-screen border-2 border-white/60 bg-white/40 rounded-t-xl">
             <h1 class="text-6xl pb-16 pt-8">WELCOME</h1>
             <form id="form" class="w-3/4">
-                <input name="email" autocomplete="email" required readonly type="email"
+                <input name="email" autocomplete="email" required type="email"
                     placeholder="Email" class="border-b-2 pb-2 my-4 outline-none w-full placeholder-white">
-                    <input name="pseudo" autocomplete="pseudo" required  readonly type="text"
+                    <input name="pseudo" autocomplete="pseudo" required  type="text"
                     placeholder="Pseudo" class="border-b-2 pb-2 my-4 outline-none w-full placeholder-white">
                 <input name="password" autocomplete="password" required type="password" placeholder="Password"
                     class="border-b-2 pb-2 my-4 outline-none w-full placeholder-white">
