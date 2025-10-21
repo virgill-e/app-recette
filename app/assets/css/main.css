@@ -3,3 +3,7 @@
 @theme {
     --font-erica-one: 'Erica One', cursive;
 }
+
+* {
+    text-transform: uppercase;
+}

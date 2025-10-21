@@ -5,9 +5,9 @@
             <h1 class="text-6xl pb-16 pt-8">WELCOME</h1>
             <form id="form" class="w-3/4">
                 <input name="email" autocomplete="email" type="email" placeholder="Email"
-                    class="border-b-2 pb-2 my-4 outline-none w-full placeholder-white"></input>
+                    class="border-b-2 pb-2 my-4 outline-none w-full placeholder-white">
                 <button class="w-full py-2 bg-white text-black rounded-xl">
-                    CONTINUE
+                    CONTINUER
                 </button>
             </form>
             <div class="w-3/4 py-8 flex flex-row items-center justify-between">
@@ -17,7 +17,7 @@
             </div>
             <button class="w-3/4 py-2 bg-white text-black rounded-xl flex items-center justify-center gap-2">
                 <nuxt-img src="/img/google-icon.png" alt="Google" class="w-6 h-6" />
-                CONTINUE WITH GOOGLE
+                CONTINUER AVEC GOOGLE
             </button>
         </div>
     </div>
