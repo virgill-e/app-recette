@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+@theme {
+    --font-erica-one: 'Erica One', cursive;
+}
