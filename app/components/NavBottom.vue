@@ -5,16 +5,16 @@
                 <img src="/img/home-icon.png" alt="icon" class="w-6 h-6" />
             </button>
             <button class="flex flex-col items-center justify-center p-2">
-                <img src="/img/home-icon.png" alt="icon" class="w-6 h-6" />
+                <img src="/img/search-icon.png" alt="icon" class="w-6 h-6" />
             </button>
             <button class="flex flex-col items-center justify-center p-2">
-                <img src="/img/home-icon.png" alt="icon" class="w-6 h-6" />
+                <img src="/img/add-icon.png" alt="icon" class="w-6 h-6" />
             </button>
             <button class="flex flex-col items-center justify-center p-2">
-                <img src="/img/home-icon.png" alt="icon" class="w-6 h-6" />
+                <img src="/img/alert-icon.png" alt="icon" class="w-6 h-6" />
             </button>
             <button class="flex flex-col items-center justify-center p-2">
-                <img src="/img/home-icon.png" alt="icon" class="w-6 h-6" />
+                <img src="/img/profil-icon.png" alt="icon" class="w-6 h-6" />
             </button>
         </div>
     </nav>
