@@ -44,10 +44,10 @@ const decrementPersons = () => { if (persons.value > 1) persons.value-- }
 
         <section class="rounded-xl shadow-sm p-5 bg-white/30 backdrop-blur-sm">
             <h2 class="text-lg font-medium mb-2">Etapes</h2>
-            <ol class="list-decimal list-inside space-y-2">
-                <li>Mélanger les ingrédients</li>
-                <li>Faire cuire les crêpes</li>
-                <li>Servir les crêpes</li>
+            <ol class="list-decimal list-outside space-y-2 pl-6">
+                <li class="pl-2">Mélanger les ingrédients avec un peu d'eau et de sel pour former une pâte.</li>
+                <li class="pl-2">Faire cuire les crêpes</li>
+                <li class="pl-2">Servir les crêpes</li>
             </ol>
         </section>
     </div>
